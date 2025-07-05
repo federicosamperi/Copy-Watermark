@@ -2,7 +2,7 @@
 
 Copy Watermark è un plug-in sviluppato per WordPress che si occupa di aggiungere, al contenuto copiato all'interno dell'articolo da un utente, un collegamento verso l'indirizzo web dal quale proviene il contenuto:
 
-> Il team di Midjourney ha comunicato che questo nuovo modello incentrato sui video, pur rappresentando un significativo traguardo per l’azienda
+> Il team di Midjourney ha comunicato che questo nuovo modello incentrato sui video, pur rappresentando un significativo traguardo per l’azienda, è anche un trampolino di lancio per un progetto unificato molto più ambizioso che, seppur inizialmente costoso, sarà accessibile a chiunque.
 >
 > Continua su: https://editings.eu/la-generazione-di-video-con-ai-arriva-anche-su-midjourney-con-v1-costi-e-dettagli
 
