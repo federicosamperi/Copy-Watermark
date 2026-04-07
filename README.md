@@ -3,7 +3,7 @@
 Copy Watermark è un plug-in sviluppato per WordPress che si occupa di aggiungere, al contenuto copiato all'interno dell'articolo da un utente, un collegamento verso l'indirizzo web dal quale proviene il contenuto:
 
 > La fotocamera frontale di iPhone 17 Pro Max ha permesso di includere sia gli astronauti che la Terra sullo sfondo, conferendo all’umanità un’ulteriore conferma di come i nostri smartphone siano già in grado di funzionare come uno strumento potentissimo per ottenere scatti e filmati professionali
-
+>
 Continua su: https://editings.eu/artemis-ii-le-foto-della-nasa-scattate-con-iphone-17-pro-max-stupiscono
 
 # ✨ Personalizzazione
