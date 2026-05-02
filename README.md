@@ -22,4 +22,4 @@ Copy Watermark è attualmente in esecuzione sul sito web di editings.eu. Per tes
 
 Copy Watermark non richiede specifici requisiti. Si tratta di un plug-in sviluppato per WordPress 6.7 (e versioni successive) in esecuzione su PHP 8.2.x (e versioni successive).
 
-⛔ _Potrebbe non funzionare su versioni deprecate di PHP e di WordPress. Copy Watermark è stato testato su un ambiente con WordPress 6.7 e PHP 8.2.10_.
+⛔ _Potrebbe non funzionare su versioni deprecate di PHP e di WordPress. Copy Watermark è stato testato su un ambiente con WordPress 6.9 e PHP 8.4.19_.
