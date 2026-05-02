@@ -8,7 +8,7 @@ Copy Watermark è un plug-in sviluppato per WordPress che si occupa di aggiunger
 
 # ✨ Personalizzazione
 
-Una volta installato il plug-in su WordPress, è possibile personalizzare il "watermark" dal pannello **Editor del Plugin** *(Plugin > Editor del plugin)* selezionando **Copy Watermark** e modificando la **Riga 16**:
+Una volta installato il plug-in su WordPress, è possibile personalizzare il "watermark" dal pannello **Editor del Plugin** *(Plugin > Editor del plugin)* selezionando **Copy Watermark** e modificando la **Riga 22**:
 
 ```php
 var message = '\nContinua su: ' + url;
