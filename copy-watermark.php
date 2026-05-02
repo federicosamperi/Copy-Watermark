@@ -2,12 +2,18 @@
 /*
 Plugin Name: Copy Watermark
 Description: Aggiunge il link alla pagina originale quando si copia un testo da editings.eu
-Version: 1.2
+Version: 1.3
 Author: Federico Samperi
 */
 
 function add_link_on_copy() {
-    if (is_single()) { // Applica solo agli articoli
+    // ❌ Non applicare agli admin loggati
+    if (is_user_logged_in() && current_user_can('administrator')) {
+        return;
+    }
+
+    // ✔ Solo negli articoli
+    if (is_single()) {
         ?>
         <script type="text/javascript">
         document.addEventListener('copy', function(e) {
@@ -24,5 +30,4 @@ function add_link_on_copy() {
 }
 
 add_action('wp_footer', 'add_link_on_copy');
-
 ?>
